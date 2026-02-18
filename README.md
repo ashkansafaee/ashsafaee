@@ -16,7 +16,7 @@ Going back to study wasn't a career change — it was a deliberate investment in
 
 ## Background
 
-- **3x Founder** — COO at Astrid (Spotify, PwC deployments), COO at Everyday School, CEO at Unleash Global
+- **3x Founder** — COO at Astrid (Spotify, PwC deployments), COO at Everyday School, CEO at Unleash
 - **Operator** — 2B SEK P&L, 150+ people, cross-functional programme ownership
 - **Student** — Mathematical Statistics & Machine Learning, Stockholm University (2023–2026)
 - **Board** — Ung Cancer, Young Entrepreneurs of Sweden
