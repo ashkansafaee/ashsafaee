@@ -13,7 +13,7 @@ Going back to study wasn't a career change — it was a deliberate investment in
 | [swedish-equity-modelling](https://github.com/ashkansafaee/swedish-equity-modelling) | Predicting OMX index returns using Ridge, LASSO, stepwise AIC and logistic regression on 25 Stockholm-listed stocks |
 | [spam-classification-study](https://github.com/ashkansafaee/spam-classification-study) | Gradient Boosting vs SVM on the Hastie spam dataset — rigorous CV, 1-SE model selection, kernel comparison |
 | [rate-distortion-clustering](https://github.com/ashkansafaee/rate-distortion-clustering) | From-scratch Blahut-Arimoto implementation for information-theoretic soft clustering |
-| [deep-learning-forest-classification](https://github.com/ashkansafaee/deep-learning-forest-classification) | 12-layer MLP on 581K-sample forest dataset — oversampling, class imbalance, 94% test accuracy |
+| [deep-learning-classification](https://github.com/ashkansafaee/deep-learning-classification) | MLP & CNN projects — forest cover (94% accuracy) and CIFAR-10 image classification (81% accuracy) |
 
 ## Background
 
