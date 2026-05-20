@@ -2,9 +2,9 @@
 
 I'm a senior operator and 3x founder based in Stockholm, currently completing a B.Sc. in Mathematical Statistics and Machine Learning at Stockholm University — with 30 ECTS completed at Master's level concurrently.
 
-For two decades I've built and run organisations: managing teams of 150+, overseeing portfolios of 2B SEK, and co-founding companies from zero to market across tech, consulting, and professional services. My work has consistently been about building operational structures that let teams move fast without losing control.
+For two decades I've built and run organisations — managing teams of 150+, overseeing portfolios of 2B SEK, and co-founding companies from zero to market across tech, consulting, and professional services.
 
-Going back to study wasn't a career change — it was a deliberate investment in rigour. I wanted to be able to think clearly about statistical inference, model uncertainty, and data-driven systems, not just manage the people who do. These projects are the output of that.
+Going back to study wasn't a career pivot, rather,  it was a deliberate investment in rigour. I wanted to think clearly about statistical inference, model uncertainty, and data-driven systems, not just manage the people who do. These projects are the output of that.
 
 ## What you'll find here
 
